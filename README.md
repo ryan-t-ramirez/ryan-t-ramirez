@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ryan Ramirez
+### Cybersecurity & Computer Science Specialist
 
-<!--
-**ryan-t-ramirez/ryan-t-ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my digital workspace.** 👋
 
-Here are some ideas to get you started:
+I'm a developer passionate about securing digital environments, building efficient systems, and automating workflows. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/ryan-ramirez">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:ryan.t.ramirez@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+<br />
