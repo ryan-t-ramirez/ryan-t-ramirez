@@ -18,8 +18,6 @@
 
 ---
 
-<br />
-
 **Welcome to my digital workspace.** 👋
 
 ### 👨‍💻 About Me 👨‍💻
