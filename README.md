@@ -79,15 +79,13 @@ https://github.com/DenverCoder1/custom-icon-badges
 <br />
 
 ### 📂 Featured Projects
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Adaptive Authentication Framework](https://github.com/ryan-t-ramirez/Adaptive-Auth)** | A full-stack risk-based authentication system that scores login attempts across four signals (IP reputation, device trust, impossible travel, login time) and conditionally enforces MFA. Includes a live simulation panel for testing risk scenarios. [Live Demo](https://adaptive-auth-production.up.railway.app) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **[JobTracker: Automated Application Scraper](https://github.com/ryan-t-ramirez/JobTracker)** | A Google Apps Script automation tool for tracking job applications. Parses LinkedIn URLs to automatically extract and populate metadata (Title, Company, Salary, Location) into a master tracking spreadsheet using regex and DOM parsing. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) |
 | **[HIPAAChecker: Security & Compliance Audit](https://github.com/ryan-t-ramirez/HIPAAChecker-Security-Compliance-Audit)** | Led the Quality Assurance (QA) and compliance validation phase for a healthcare platform. Developed comprehensive test cases to verify HIPAA regulatory adherence, identified logic errors, and authored the official system documentation. | ![Compliance](https://img.shields.io/badge/Compliance-HIPAA-005A9C?style=flat-square&logo=health&logoColor=white) ![QA](https://img.shields.io/badge/QA_&_Testing-4B0082?style=flat-square&logo=read-the-docs&logoColor=white) ![Documentation](https://img.shields.io/badge/Documentation-Technical-1F425F?style=flat-square&logo=libreoffice&logoColor=white) |
-| **[An Analysis of Crime in Milwaukee](https://github.com/ryan-t-ramirez/An-Analysis-of-Crime-in-Milwaukee)** | A geospatial and statistical analysis of crime data. Leverages historical incident reports to visualize high-risk zones and identify temporal trends using geospatial mapping and predictive modeling. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+<br />
 
-<br />
-<br />
 
 <div align="center">
   <p><i>"Combatting our zero-trust society by building Zero Trust systems."</i></p>
